@@ -27,9 +27,7 @@ const personalMovieDB = {
 };
 
 
-
-
-
+console.log('test')
 
 function remeberMyFilms(){
     for(let i=0; i<2; i++){
@@ -47,9 +45,6 @@ function remeberMyFilms(){
 }
 
 remeberMyFilms();
-
-
-
 
 function detectPersonalLevel(){
     if(personalMovieDB.count < 10){
