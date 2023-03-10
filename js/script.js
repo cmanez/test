@@ -1,5 +1,5 @@
 "use strict";
-
+//sss
 let numberOfFilms;
 function start(){
     numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');
